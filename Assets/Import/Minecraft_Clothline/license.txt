@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minecraft Clothline
+* source:	https://sketchfab.com/3d-models/minecraft-clothline-69d3d76eb2f64138a25807de87f83b4b
+* author:	TheSlayer26 (https://sketchfab.com/TheSlayer26)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minecraft Clothline" (https://sketchfab.com/3d-models/minecraft-clothline-69d3d76eb2f64138a25807de87f83b4b) by TheSlayer26 (https://sketchfab.com/TheSlayer26) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

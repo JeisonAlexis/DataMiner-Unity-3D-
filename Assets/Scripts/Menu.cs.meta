@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 22357c16826ea5e4cbe563a68d301460
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sonidoCambioEscena: {fileID: 8300000, guid: c534ceaa349520a4ab2214394f24d7df,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

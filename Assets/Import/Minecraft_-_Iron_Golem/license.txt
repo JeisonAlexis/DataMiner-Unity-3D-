@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minecraft - Iron Golem
+* source:	https://sketchfab.com/3d-models/minecraft-iron-golem-b7f1a9a021654c84a67a1ead67291793
+* author:	Vincent Yanez (https://sketchfab.com/vinceyanez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minecraft - Iron Golem" (https://sketchfab.com/3d-models/minecraft-iron-golem-b7f1a9a021654c84a67a1ead67291793) by Vincent Yanez (https://sketchfab.com/vinceyanez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

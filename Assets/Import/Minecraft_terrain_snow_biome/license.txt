@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minecraft terrain snow biome
+* source:	https://sketchfab.com/3d-models/minecraft-terrain-snow-biome-d41726a4aff64dab83bd860aea49570b
+* author:	DURVESH S (https://sketchfab.com/durvesh123)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minecraft terrain snow biome" (https://sketchfab.com/3d-models/minecraft-terrain-snow-biome-d41726a4aff64dab83bd860aea49570b) by DURVESH S (https://sketchfab.com/durvesh123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

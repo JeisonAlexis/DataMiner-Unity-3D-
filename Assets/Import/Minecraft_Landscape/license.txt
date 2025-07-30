@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minecraft Landscape
+* source:	https://sketchfab.com/3d-models/minecraft-landscape-8ce1dbee97254810ab890aa358790513
+* author:	Piano_miles (https://sketchfab.com/Piano_miles)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minecraft Landscape" (https://sketchfab.com/3d-models/minecraft-landscape-8ce1dbee97254810ab890aa358790513) by Piano_miles (https://sketchfab.com/Piano_miles) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

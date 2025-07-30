@@ -1,0 +1,11 @@
+Model Information:
+* title:	Savana Biome
+* source:	https://sketchfab.com/3d-models/savana-biome-58ade20f2dc8440cbea0b55c5dceed7c
+* author:	Little2379 (https://sketchfab.com/Little2379)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Savana Biome" (https://sketchfab.com/3d-models/savana-biome-58ade20f2dc8440cbea0b55c5dceed7c) by Little2379 (https://sketchfab.com/Little2379) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minecraft adventure start kit
+* source:	https://sketchfab.com/3d-models/minecraft-adventure-start-kit-74e8260f3d8a449e9286bd84757c460b
+* author:	omegaru010 (https://sketchfab.com/omegaru010)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minecraft adventure start kit" (https://sketchfab.com/3d-models/minecraft-adventure-start-kit-74e8260f3d8a449e9286bd84757c460b) by omegaru010 (https://sketchfab.com/omegaru010) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	{Minecraft} Clothesline with Jumpers
+* source:	https://sketchfab.com/3d-models/minecraft-clothesline-with-jumpers-e3a2f1dbe3d841bc9478b88d219a1269
+* author:	ContinuedOak (https://sketchfab.com/ContinuedOak)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "{Minecraft} Clothesline with Jumpers" (https://sketchfab.com/3d-models/minecraft-clothesline-with-jumpers-e3a2f1dbe3d841bc9478b88d219a1269) by ContinuedOak (https://sketchfab.com/ContinuedOak) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
