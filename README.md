@@ -78,7 +78,20 @@
 4. Click en open project from disk (Version recomendada de Unity 2019.4
 5. Abrir el proyecto
 
+## 📈📉 Observaciones y/o posibles mejoras
 
+1. Mejoras de rendimiento:
+   - Mitigar la alta carga computacional en la creacion de chunks
+   - Sistema de guardado y cargado de chunks (los chunks siempre estan cargados incluso aunque el jugador este lejos)
+   - Mejorar el sistemas de cargado de la mesh de los cubos (la cara al exterior de cada chunk se carga aunque este tapada)
+2. Bugs:
+   - Ciertos parametros de generacion permiten escenarios donde hay mas de 1 NPC por estructura lo que no esta contemplado
+   - Con ciertos paramatros de distancia el juego permite colocar bloques de forma que obstaculicen directamente al jugador
+3. Mejoras funcionales:
+   - Sistema de guardado y cargado de mundos
+   - Sistema de inventario
+   - Sistema de combate
+   - Sistema de ciclo dia/noche
 
 **Autor**
 - Jeison Alexis Rodriguez Angarita 🙍‍♂️
