@@ -75,7 +75,7 @@
    cd DataMiner-Unity-3D-
 2. Abrir Unity Hub
 3. Click en Add
-4. Click en open project from disk (Version recomendada de Unity 2019.4
+4. Click en open project from disk (Version recomendada de Unity 2019.4)
 5. Abrir el proyecto
 
 ## 📈📉 Observaciones y/o posibles mejoras
