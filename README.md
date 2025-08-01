@@ -62,9 +62,18 @@
 
 
 ## ▶️ **Trailer**  
-<a href="https://www.youtube.com/watch?v=8-ZmSIuK3M8" target="_blank">
-  <img src="https://img.youtube.com/vi/8-ZmSIuK3M8/hqdefault.jpg" width="950" height="700" alt="Ver video">
-</a>
+<div align="center">
+  <a href="https://youtu.be/8-ZmSIuK3M8">
+    <img src="imgs/casa.png" alt="PROYECTO SMS GATEWAY" width="600">
+  </a>
+
+  <br>
+
+  <a href="https://youtu.be/8-ZmSIuK3M8">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+
+</div>
 
 
 ## 🚀 Modo de Uso
